@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Jokes App</string>
+    <string name="splash_title">Jokes App</string>
+    <string name="splash_subtitle">Laughing is a good habit</string>
+</resources>
